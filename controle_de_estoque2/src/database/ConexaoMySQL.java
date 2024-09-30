@@ -8,7 +8,7 @@ public class ConexaoMySQL {
 
     private static final String URL = "jdbc:mysql://localhost:3306/controle_estoque"; // Substitua pelo nome do seu banco de dados
     private static final String USUARIO = "root";  // Substitua pelo seu usuário MySQL
-    private static final String SENHA = "Velocidade123*";  // Substitua pela sua senha MySQL
+    private static final String SENHA = "******";  // Substitua pela sua senha MySQL
 
     // Método para obter uma conexão com o banco de dados
     public static Connection getConnection() {
